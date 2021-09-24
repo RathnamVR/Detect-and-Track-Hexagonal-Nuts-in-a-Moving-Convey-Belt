@@ -1,2 +1,2 @@
 # Detect-and-Track-Hexagonal-Nuts-in-a-Moving-Convey-Belt
-The video used here is simillar to the top view of a moving convey belt. Moving hexagen nuts in this video has been detected and tracked using a template image of a hexagen nut. After detecting and tracking nuts are uniquely numbered to ouput a video simillar to the input input video but with relavant information. 
+A video similar to the top view of a moving convey belt with hexagonal nuts on it has been used here. Hexagonal nuts in this video have been detected and tracked using a template hexagonal nut image. After that nuts are uniquely numbered to output a video similar to the input video but with relevant information. 
